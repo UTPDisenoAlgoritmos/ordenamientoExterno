@@ -1,0 +1,8 @@
+pe\edu\utp\algoritmos\sort\OrdenadorBloque.class
+pe\edu\utp\algoritmos\sort\FusionNaturalExterna.class
+pe\edu\utp\algoritmos\sort\FusionArchivos.class
+pe\edu\utp\algoritmos\App.class
+pe\edu\utp\algoritmos\metricas\MetricasOrdenacion.class
+pe\edu\utp\algoritmos\io\VentaCsv.class
+pe\edu\utp\algoritmos\sort\MezclaDirectaExterna.class
+pe\edu\utp\algoritmos\model\Venta.class

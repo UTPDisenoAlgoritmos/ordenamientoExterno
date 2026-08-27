@@ -1,0 +1,3 @@
+algoritmo,registros,tamano_bloque,corridas_iniciales,pasadas_fusion,comparaciones,lecturas_registro,escrituras_registro,archivos_temporales,tiempo_ms
+Mezcla Directa,30,10,3,2,89,110,110,5,7358.038
+Fusión Natural,30,N/A,2,1,58,90,90,3,180.847
